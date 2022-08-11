@@ -1,0 +1,14 @@
+h1{
+    background-color: deeppink;
+    color: rgb(132, 185, 255);
+    font-size: 40px;
+}
+.body{
+    background-image:url("pizzara de perritos.jpg") ;
+    background-size: cover;
+}
+#jugo{
+	border-width:10px ;
+	border-style:dotted;
+    border-color: darkviolet;
+}
